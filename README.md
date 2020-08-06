@@ -1,5 +1,7 @@
 # pay
 
+`composer require qttyeah/library`
+
 ## 微信
 
 - 
