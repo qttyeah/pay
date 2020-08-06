@@ -1,0 +1,19 @@
+{
+    "name": "qttyeah/pay",
+    "description": "Collection part payment is convenient and rapid development",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "qttyeah",
+            "email": "15213725562@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "Qttyeah\\Pay\\": "src"
+        }
+    }
+}
